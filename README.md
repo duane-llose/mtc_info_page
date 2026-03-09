@@ -11,6 +11,7 @@ Hi, Duane Llose here. Check out my repos
 | Project Name      | Web Page                                          | Link                                                       |
 | ----------------- | ------------------------------------------------- | ---------------------------------------------------------- |
 | mtc-backend-prod       | No page | [Github](https://github.com/duane-llose/mtc-backend-prod.git)  |
+| mtc-frontend-prod       | [Webpage](https://duane-llose.github.io/mtc-frontend-prod/) | [Github](https://github.com/duane-llose/mtc-frontend-prod.git)  |
 | mtc-infra-prod       | [Webpage](https://duane-llose.github.io/mtc-infra-prod/) | [Github](https://github.com/duane-llose/mtc-infra-prod.git)  |
 
 ---
