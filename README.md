@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img src="https://avatars.githubusercontent.com/u/18324608" style="width: 10%; height: auto;" />
+<img src="https://avatars.githubusercontent.com/u/18324608?v=4" style="width: 10%; height: auto;" />
 
 Hi, Duane Llose here. Check out my repos
 
